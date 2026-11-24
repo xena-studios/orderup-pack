@@ -15,4 +15,4 @@ Everything here is published by CI from OrderUp's private repository, so pull re
 
 ## Licence
 
-Copyright (c) 2026 Xena Studios. All rights reserved. The pack is licensed to players only for use while playing on OrderUp.
+Copyright (c) 2026 Xena Studios. All rights reserved.
